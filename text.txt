@@ -1,0 +1,2 @@
+i working directory-->stagging area--local repor---temote repor
+test-project --->git add-----------git commit----->git push
